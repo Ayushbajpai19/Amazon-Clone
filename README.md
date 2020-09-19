@@ -1,3 +1,8 @@
+Amazon Clone made using stripe payment dependency , react for frontend and mongodb for database and expressjs as backend
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
